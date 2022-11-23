@@ -1,0 +1,41 @@
+Nom;House_0;House_1;House_2;House_3;House_4;Hotel;Price;Price_House
+Départ;0;0;0;0;0;0;0;0
+Boulevard de Belleville;2;10;30;90;160;250;60;50
+Caisse de Communauté;0;0;0;0;0;0;0;0
+Rue Lecourbe;4;20;60;180;320;450;60;50
+Impôt sur le revenu;0;0;0;0;0;0;200;0
+Gare Montparnasse;0;25;50;100;200;0;200;0
+Rue de Vaugirard;6;30;90;270;400;550;100;50
+Chance;0;0;0;0;0;0;0;0
+Rue de Courcelles;6;30;90;270;400;550;100;50
+Avenue de la République;8;40;100;300;450;600;120;50
+Prison;0;0;0;0;0;0;0;0
+Boulevard de la Villette;10;50;150;450;625;750;140;100
+Compagnie d’électricité;0;0;0;0;0;0;150;0
+Avenue de Neuilly;10;50;150;450;625;750;140;100
+Rue de Paradis;12;60;180;500;700;900;160;100
+Gare de Lyon;0;25;50;100;200;0;200;0
+Avenue Mozart;14;70;200;550;750;950;180;100
+Caisse de Communauté;0;0;0;0;0;0;0;0
+Boulevard Saint-Michel;14;70;200;550;750;950;180;100
+Place Pigalle;16;80;220;600;800;1000;200;100
+Parc Gratuit;0;0;0;0;0;0;0;0
+Avenue Matignon;18;90;250;700;875;1050;220;150
+Chance;0;0;0;0;0;0;0;0
+Boulevard Malesherbes;18;90;250;700;875;1050;220;150
+Avenue Henri-Martin;20;100;300;750;925;1100;240;150
+Gare du Nord;0;25;50;100;200;0;200;0
+Faubourg Saint-Honoré;22;110;330;800;975;1150;260;150
+Place de la Bourse;22;110;330;800;975;1150;260;150
+Compagnie des eaux;0;0;0;0;0;0;150;0
+Rue La Fayette;24;120;360;850;1025;1200;280;150
+Allez en prison;0;0;0;0;0;0;0;0
+Avenue de Breteuil;26;130;390;900;1100;1275;300;200
+Avenue Foch;26;130;390;900;1100;1275;300;200
+Caisse de Communauté;0;0;0;0;0;0;0;0
+Boulevard des Capucines;28;150;450;1000;1200;1400;320;200
+Gare Saint-Lazare;0;25;50;100;200;0;200;0
+Chance;0;0;0;0;0;0;0;0
+Avenue des Champs-Élysées;35;175;500;1100;1300;1500;350;200
+Taxe de Luxe;0;0;0;0;0;0;100;0
+Rue de la Paix;50;200;600;1400;1700;2000;400;200
