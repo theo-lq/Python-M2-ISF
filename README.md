@@ -34,3 +34,4 @@ Cours de Python pour l'Université Paris-Dauphine, Master 280, promotion 2022-20
 Notions intéressantes que nous aurions pu traiter en cours si nous avions plus de temps, par défaut et pour un travail personnel :
 * **Arithmetic_Progression_Prime** : on s'inspire du théorème de Green-Tao pour traiter des progressions arithmétique à l'intérieur de l'ensemble des nombres premiers. L'exercice fait travailler la compréhension d'un sujet a priori compliqué ainsi que la qualité de code (modularité, libisilité).
 * **Mertens Conjecture** : travail autour de la conjecture de Mertens. L'exercice est de comprendre les notions et y associé un code lisible. La visualisation est peu challengente, mais la culture mathématiques sur cet exemple est intéressante. Le code est en **Julia** pour des raisons de performance, l'exercice n'est donc pas résolu en Python, c'est laissé à l'étudiant.
+* **Syracuse** : travail autour de la conjecture de Syracuse.
